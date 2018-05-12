@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '9313'
     url: http://www.gutenberg.org/2009/agents/9313
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/20464#A-Journey-Through-France-in-War-Time
 gutenberg_bookshelf:
 - France
 - World War I
