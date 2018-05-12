@@ -1,0 +1,31 @@
+_repo: A-Journey-Through-France-in-War-Time_20464
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Butler, Joseph G. (Joseph Green)
+    birthdate: 1840
+    deathdate: 1927
+    gutenberg_agent_id: '9313'
+    url: http://www.gutenberg.org/2009/agents/9313
+description: ''
+gutenberg_bookshelf:
+- France
+- World War I
+gutenberg_issued: '2007-01-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '20464'
+  lccn: '17018815'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'France -- Description and travel'
+- !lcsh 'World War, 1914-1918'
+- !lcc 'DC'
+title: A Journey Through France in War Time
+url: http://www.gutenberg.org/ebooks/20464
